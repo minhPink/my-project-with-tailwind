@@ -8,6 +8,7 @@ export default {
         20: "20px",
         26: "26px",
         36: "36px",
+        48: "48px",
       },
     },
     fontFamily: {
